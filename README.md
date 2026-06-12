@@ -1,22 +1,18 @@
-<div align="center">
-
-# Hey, I'm Adriane! 🕷️
-
-**IT Technician Student · Dev in progress · Future Full-Stack**
-
-*"With great power comes great responsibility... and a lot of bugs."*
-
-</div>
+![Banner](./ADRIANE.png)
 
 ---
 
-## 🧑‍💻 About me
+## 🕷️ About Me
 
-- 🎓 Studying **IT with a focus on software development**
+<img src="./spidey-bio.gif" width="180" align="right"/>
+
+- 🎓 IT Technician student focused on **software development**
 - 🕸️ Passionate about **front-end** — if it's visual, I want to build it
 - ⚙️ Diving into **back-end** to become a full-stack dev
-- 🕷️ There's always a Spider-Man easter egg hidden somewhere in my personal projects
+- 🕷️ There's always a Spider-Man easter egg hidden in my personal projects
 - 🌱 Always learning something new
+
+<br clear="right"/>
 
 ---
 
@@ -30,19 +26,33 @@
 
 ---
 
+## 🚀 Projects
+
+<img src="./spidey-projects.gif" width="180" align="right"/>
+
+> *Projects will show up here soon — stay tuned!* 🕸️
+>
+> Every great hero starts somewhere.
+
+<br><br><br><br>
+
+<br clear="right"/>
+
+---
+
 ## 📊 Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianebernardo&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianebernardo&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianebernardo&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianebernardo&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🕷️ Easter egg
+## 🕷️ Easter Egg
 
 <details>
 <summary>Click here if you dare 🕸️</summary>
@@ -62,6 +72,6 @@
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=adrianebernardo&color=blueviolet&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=adrianebernardo&color=e23636&style=flat-square)
 
 </div>
