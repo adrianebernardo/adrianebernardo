@@ -30,7 +30,7 @@
 
 <img src="./spidey-projects.gif" width="180" align="right"/>
 
-> *Projects will show up here soon — stay tuned!* 🕸️
+> *Projects will show up here soon!* 🕸️
 >
 > Every great hero starts somewhere.
 
