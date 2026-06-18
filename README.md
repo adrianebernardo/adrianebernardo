@@ -76,6 +76,6 @@
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=adrianebernardo&color=e23636&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adrianebernardo.adrianebernardo)
 
 </div>
