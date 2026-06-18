@@ -30,11 +30,15 @@
 
 <img src="./spidey-projects.gif" width="180" align="right"/>
 
-> *Projects will show up here soon!* 🕸️
->
-> Every great hero starts somewhere.
+### 🕸️ [Sistema de Autenticação e Gestão de Usuários](https://github.com/adrianebernardo/sistema-de-login)
+> Aplicação web completa de login e cadastro com validações em tempo real e feedback visual — integrada ao Firebase Auth e Cloud Firestore.
 
-<br><br><br><br>
+![HTML](https://img.shields.io/badge/HTML5-e23636?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-ff6d00?style=flat-square&logo=firebase&logoColor=white)
+
+🌐 [Ver projeto online](https://sistema-login-d0f98.web.app/)
 
 <br clear="right"/>
 
