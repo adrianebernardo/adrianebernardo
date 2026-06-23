@@ -4,7 +4,7 @@
 
 ## 🕷️ About Me
 
-<img src="./spidey-bio.gif" width="180" align="right"/>
+<img src="./spider.gif" width="300" align="right"/>
 
 - 🎓 IT Technician student focused on **software development**
 - 🕸️ Passionate about **front-end** — if it's visual, I want to build it
