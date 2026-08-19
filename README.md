@@ -48,9 +48,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianebernardo&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianebernardo&layout=compact&theme=radical&hide_border=true)
+![Commits](https://img.shields.io/badge/GitHub-Profile_Stats-e23636?style=for-the-badge&logo=github&logoColor=white)
+![Activity](https://img.shields.io/github/commit-activity/m/adrianebernardo/sistema-de-login?style=for-the-badge&color=e23636&label=Commits%20recentes&logo=git&logoColor=white)
 
 </div>
 
