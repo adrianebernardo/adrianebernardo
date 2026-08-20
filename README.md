@@ -2,21 +2,21 @@
 
 ---
 
-## 🕷️ About Me
+## 🕷️ Sobre Mim
 
 <img src="./spider.gif" width="300" align="right"/>
 
-- 🎓 IT Technician student focused on **software development**
-- 🕸️ Passionate about **front-end** — if it's visual, I want to build it
-- ⚙️ Diving into **back-end** to become a full-stack dev
-- 🕷️ There's always a Spider-Man easter egg hidden in my personal projects
-- 🌱 Always learning something new
+- 🎓 Estudante de Técnico em TI focada em **desenvolvimento de software**
+- 🕸️ Apaixonada por **front-end** — se é visual, eu quero construir
+- ⚙️ Mergulhando no **back-end** para me tornar desenvolvedora full-stack
+- 🕷️ Sempre há um easter egg do Homem-Aranha escondido nos meus projetos pessoais
+- 🌱 Sempre aprendendo algo novo
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Projetos
 
 <img src="./spidey-projects.gif" width="180" align="right"/>
 
@@ -40,15 +40,26 @@
 
 🌐 [Ver projeto online](https://sistema-login-d0f98.web.app/)
 
+<br>
+
+### 🕷️ [Drop E-Commerce](https://github.com/adrianebernardo/drop-ecommerce)
+> Interface moderna de e-commerce focada na experiência do usuário, apresentando catálogo de produtos, navegação fluida e layout responsivo.
+
+![HTML](https://img.shields.io/badge/HTML5-e23636?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+
+📂 [Ver repositório no GitHub](https://github.com/adrianebernardo/drop-ecommerce)
+
 <br clear="right"/>
 
 ---
 
-## 📊 Stats
+## 📊 Estatísticas
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/GitHub-Profile_Stats-e23636?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/GitHub-Estatísticas_do_Perfil-e23636?style=for-the-badge&logo=github&logoColor=white)
 ![Activity](https://img.shields.io/github/commit-activity/m/adrianebernardo/sistema-de-login?style=for-the-badge&color=e23636&label=Commits%20recentes&logo=git&logoColor=white)
 
 </div>
@@ -58,23 +69,17 @@
 ## 🕷️ Easter Egg
 
 <details>
-<summary>Click here if you dare 🕸️</summary>
-
-<br>
-
-```
-"No matter what anyone tells you, don't give up who you are."
-— Peter Parker
-```
-
-> Every bug is just a villain waiting to be defeated. 🕸️
+<summary>Clique aqui se tiver coragem </summary>
+Todo bug é apenas um vilão esperando para ser derrotado. 🕸️
 
 </details>
+
+<br>
 
 ---
 
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adrianebernardo.adrianebernardo)
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=adrianebernardo.adrianebernardo)
 
 </div>
