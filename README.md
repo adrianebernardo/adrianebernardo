@@ -53,17 +53,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![Commits](https://img.shields.io/badge/GitHub-Estatísticas_do_Perfil-e23636?style=for-the-badge&logo=github&logoColor=white)
-![Activity](https://img.shields.io/github/commit-activity/m/adrianebernardo/sistema-de-login?style=for-the-badge&color=e23636&label=Commits%20recentes&logo=git&logoColor=white)
-
-</div>
-
----
-
 ## 🕷️ Easter Egg
 
 <details>
