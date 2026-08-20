@@ -49,8 +49,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 
-📂 [Ver repositório no GitHub](https://github.com/adrianebernardo/drop-ecommerce)
-
 <br clear="right"/>
 
 ---
